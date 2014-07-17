@@ -4,7 +4,7 @@
         <bookmark-list>
             <bookmark>
                 <title>Demo 1: Access data from OPeNDAP server</title>
-                <url>http://cdaweb.gsfc.nasa.gov/opendap/hyrax/genesis/gim/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density</url>
+                <url>http://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/Aura_OMI_Level3/OMAEROe.003/2005/OMI-Aura_L3-OMAEROe_2005m0101_v003-2011m1109t081947.he5.dds?TerrainReflectivity</url>
             </bookmark>
             <bookmark>
                 <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
