@@ -1,0 +1,63 @@
+<bookmark-list version="1.1">
+    <bookmark-folder>
+        <title>Demos</title>
+        <bookmark-list>
+            <bookmark>
+                <title>Demo 1: Access data from OPeNDAP server</title>
+                <url>http://cdaweb.gsfc.nasa.gov/opendap/hyrax/genesis/gim/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
+                <url>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 3: Show variables in a CDF file.  </title>
+                <url>ftp://virbo.org/LANL/LANL1991/SOPA+ESP/H0/LANL_1991_080_H0_SOPA_ESP_19920308_V01.cdf</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 4: Read a column from an Excel file</title>
+                <url>http://autoplot.org/data/autoplot.xls?column=A</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 5: Plot single variable in CDF file.</title>
+                <url>http://autoplot.org/data/autoplot.cdf?BGSM</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 6: Plot data listed in SPASE record.</title>
+                <url>http://autoplot.org/data/autoplot.xml</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 7: OMNIWeb2 text file.  Read first column (Year)</title>
+                <url>ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_1963.dat?column=field0</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 8: OMNIWeb2 text file.  Read first column (Year) across multiple files</title>
+                <url>ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_$Y.dat?column=field0=timerange=1963-1965</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 9: OMNIWeb2 text file, reading data column and parsing times.</title>
+                <url>vap:ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 10: Plot spectrogram in NCML XML file</title>
+                <url>http://autoplot.org/data/autoplot.ncml</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 11: Browse a directory tree</title>
+                <url>http://cdaweb.gsfc.nasa.gov/istp_public/data/</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 12: View FITS file</title>
+                <url>http://autoplot.org/data/hsi_qlimg_5050601_001.fits</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 13: View another FITS file </title>
+                <url>http://autoplot.org/data/hsi_fsimg_5050612_001.fits</url>
+            </bookmark>
+            <bookmark>
+                <title>Demo 14: GOES Ascii Tables</title>
+                <url>vap:http://satdat.ngdc.noaa.gov/sem/goes/data/avg/$Y/A105$y$m.TXT?skip=23&amp;timeFormat=$y$m$d+$H$M&amp;column=E1&amp;time=YYMMDD&amp;validMax=32000&amp;timerange=Dec+2004</url>
+            </bookmark>
+        </bookmark-list>
+    </bookmark-folder>
+</bookmark-list>
