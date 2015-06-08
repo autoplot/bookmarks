@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmark-list version="1.1">
+    <bookmark-folder>
+        <title>Demo Ephemeris</title>
+        <bookmark-list>
+            <bookmark>
+                <title>RBSP-A from EMFISIS Das2Server</title>
+                <uri>vap+das2server:http://emfisis.physics.uiowa.edu/das/das2Server?dataset=rbsp/ephemerisA.dsdf&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
+            </bookmark>
+            <bookmark>
+                <title>RBSP-B from EMFISIS Das2Server</title>
+                <uri>vap+das2server:http://emfisis.physics.uiowa.edu/das/das2Server?dataset=rbsp/ephemerisB.dsdf&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
+            </bookmark>
+            <bookmark>
+                <title>RBSP ECT Script</title>
+                <uri>http://www.rbsp-ect.lanl.gov/data_pub/autoplot/scripts/rbsp_ephem.jyds</uri>
+                <description>ECT supports a script that allows selection of R,L*,MLT,etc parameters</description>
+            </bookmark>
+            <bookmark-folder>
+                <title>Juno Ephemeris</title>
+                <bookmark-list>
+                    <bookmark>
+                        <title>Sun</title>
+                        <uri>vap+das2server:http://planet.physics.uiowa.edu/das/das2Server?dataset=juno/waves/flight/jephemSun.dsdf&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
+                    </bookmark>
+                    <bookmark>
+                        <title>Earth</title>
+                        <uri>vap+das2server:http://planet.physics.uiowa.edu/das/das2Server?dataset=juno/waves/flight/jephemE.dsdf&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
+                    </bookmark>
+                    <bookmark>
+                        <title>Jupiter</title>
+                        <uri>vap+das2server:http://planet.physics.uiowa.edu/das/das2Server?dataset=juno/waves/flight/jephemJ.dsdf&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
+                    </bookmark>
+                </bookmark-list>
+            </bookmark-folder>
+        </bookmark-list>
+    </bookmark-folder>
+</bookmark-list>
