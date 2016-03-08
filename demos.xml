@@ -28,15 +28,15 @@
             </bookmark>
             <bookmark>
                 <title>Demo 7: OMNIWeb2 text file.  Read first column (Year)</title>
-                <url>ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_1963.dat?column=field0</url>
+                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1963.dat?column=field0</url>
             </bookmark>
             <bookmark>
                 <title>Demo 8: OMNIWeb2 text file.  Read first column (Year) across multiple files</title>
-                <url>ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_$Y.dat?column=field0=timerange=1963-1965</url>
+                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field0=timerange=1963-1965</url>
             </bookmark>
             <bookmark>
                 <title>Demo 9: OMNIWeb2 text file, reading data column and parsing times.</title>
-                <url>vap:ftp://cdaweb.gsfc.nasa.gov/pub/data/omni/old_hourly/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</url>
+                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</url>
             </bookmark>
             <bookmark>
                 <title>Demo 10: Plot spectrogram in NCML XML file</title>
