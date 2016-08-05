@@ -13,7 +13,7 @@
             </bookmark>
             <bookmark>
                 <title>RBSP ECT Script</title>
-                <uri>http://www.rbsp-ect.lanl.gov/data_pub/autoplot/scripts/rbsp_ephem.jyds</uri>
+                <uri>https://www.rbsp-ect.lanl.gov/data_pub/autoplot/scripts/rbsp_ephem.jyds</uri>
                 <description>ECT supports a script that allows selection of R,L*,MLT,etc parameters</description>
             </bookmark>
             <bookmark-folder>
