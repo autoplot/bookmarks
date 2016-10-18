@@ -3,8 +3,8 @@
         <title>Demos</title>
         <bookmark-list>
             <bookmark>
-                <title>Demo 1: Access data from OPeNDAP server</title>
-                <url>http://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/Aura_OMI_Level3/OMAEROe.003/2005/OMI-Aura_L3-OMAEROe_2005m0101_v003-2011m1109t081947.he5.dds?TerrainReflectivity</url>
+                <title>Demo 1: .vap configuration file of data from CDAWeb</title>
+                <url>http://autoplot.org/data/vap/demo1.vap</url>
             </bookmark>
             <bookmark>
                 <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
