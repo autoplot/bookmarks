@@ -4,59 +4,59 @@
         <bookmark-list>
             <bookmark>
                 <title>Demo 1: DST from OMNI via CDAWeb</title>
-                <url>vap+cdaweb:ds=OMNI2_H0_MRG1HR&amp;id=DST1800&amp;timerange=Oct+2016</url>
+                <uri>vap+cdaweb:ds=OMNI2_H0_MRG1HR&amp;id=DST1800&amp;timerange=Oct+2016</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
-                <url>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</url>
+                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 3: Show variables in a CDF file.  </title>
-                <url>ftp://virbo.org/LANL/LANL1991/SOPA+ESP/H0/LANL_1991_080_H0_SOPA_ESP_19920308_V01.cdf</url>
+                <uri>ftp://virbo.org/LANL/LANL1991/SOPA+ESP/H0/LANL_1991_080_H0_SOPA_ESP_19920308_V01.cdf</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 4: Read a column from an Excel file</title>
-                <url>http://autoplot.org/data/autoplot.xls?column=A</url>
+                <uri>http://autoplot.org/data/autoplot.xls?column=A</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 5: Plot single variable in CDF file.</title>
-                <url>http://autoplot.org/data/autoplot.cdf?BGSM</url>
+                <uri>http://autoplot.org/data/autoplot.cdf?BGSM</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 6: Plot data listed in SPASE record.</title>
-                <url>http://autoplot.org/data/autoplot.xml</url>
+                <uri>http://autoplot.org/data/autoplot.xml</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 7: OMNIWeb2 text file.  Read first column (Year)</title>
-                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1963.dat?column=field0</url>
+                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1963.dat?column=field0</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 8: OMNIWeb2 text file.  Read first column (Year) across multiple files</title>
-                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field0=timerange=1963-1965</url>
+                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field0=timerange=1963-1965</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 9: OMNIWeb2 text file, reading data column and parsing times.</title>
-                <url>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</url>
+                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 10: Plot spectrogram in NCML XML file</title>
-                <url>http://autoplot.org/data/autoplot.ncml</url>
+                <uri>http://autoplot.org/data/autoplot.ncml</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 11: Browse a directory tree</title>
-                <url>http://cdaweb.gsfc.nasa.gov/istp_public/data/</url>
+                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 12: View FITS file</title>
-                <url>http://autoplot.org/data/hsi_qlimg_5050601_001.fits</url>
+                <uri>http://autoplot.org/data/hsi_qlimg_5050601_001.fits</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 13: View another FITS file </title>
-                <url>http://autoplot.org/data/hsi_fsimg_5050612_001.fits</url>
+                <uri>http://autoplot.org/data/hsi_fsimg_5050612_001.fits</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 14: GOES Ascii Tables</title>
-                <url>http://satdat.ngdc.noaa.gov/sem/goes/data/new_avg/$Y/$m/goes10/csv/g10_eps_5m_$Y$m$d_$(Y,end)$m$d.csv?column=field1&amp;depend0=field0&amp;skip=456&amp;timerange=Dec+2004</url>
+                <uri>http://satdat.ngdc.noaa.gov/sem/goes/data/new_avg/$Y/$m/goes10/csv/g10_eps_5m_$Y$m$d_$(Y,end)$m$d.csv?column=field1&amp;depend0=field0&amp;skip=456&amp;timerange=Dec+2004</uri>
             </bookmark>
         </bookmark-list>
     </bookmark-folder>
