@@ -3,8 +3,8 @@
         <title>Demos</title>
         <bookmark-list>
             <bookmark>
-                <title>Demo 1: .vap configuration file of data from CDAWeb</title>
-                <url>http://autoplot.org/data/vap/demo1.vap</url>
+                <title>Demo 1: DST from OMNI via CDAWeb</title>
+                <url>vap+cdaweb:ds=OMNI2_H0_MRG1HR&amp;id=DST1800&amp;timerange=Oct+2016</url>
             </bookmark>
             <bookmark>
                 <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
