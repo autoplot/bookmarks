@@ -8,7 +8,7 @@
             </bookmark>
             <bookmark>
                 <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
-                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</uri>
+                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v$v.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 3: Show variables in a CDF file.  </title>
