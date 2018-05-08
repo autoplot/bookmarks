@@ -56,7 +56,7 @@
             </bookmark>
             <bookmark>
                 <title>Demo 14: GOES Ascii Tables</title>
-                <uri>https://satdat.ngdc.noaa.gov/sem/goes/data/new_avg/$Y/$m/goes10/csv/g10_eps_5m_$Y$m$d_$(Y,end)$m$d.csv?column=field1&amp;depend0=field0&amp;skip=456&amp;timerange=Dec+2004</uri>
+                <uri>https://satdat.ngdc.noaa.gov/sem/goes/data/avg/$Y/$m/goes10/csv/g10_eps_5m_$Y$m$d_$(Y,end)$m$d.csv?column=field1&amp;depend0=field0&amp;skip=456&amp;timerange=Dec+2004</uri>
             </bookmark>
         </bookmark-list>
     </bookmark-folder>
