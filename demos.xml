@@ -58,6 +58,10 @@
                 <title>Demo 14: GOES Ascii Tables</title>
                 <uri>https://satdat.ngdc.noaa.gov/sem/goes/data/avg/$Y/$m/goes10/csv/g10_eps_5m_$Y$m$d_$(Y,end)$m$d.csv?column=field1&amp;depend0=field0&amp;skip=456&amp;timerange=Dec+2004</uri>
             </bookmark>
+            <bookmark>
+                <title>Demo 15: Voyager 1 from Das2Server</title>
+                <uri>vap+das2server:http://planet.physics.uiowa.edu/das/das2Server?dataset=Voyager/1/PWS/SpecAnalyzer-4s-Efield&amp;start_time=1979-03-03T00:00Z&amp;end_time=1979-03-08T00:00Z</uri>
+            </bookmark>
         </bookmark-list>
     </bookmark-folder>
 </bookmark-list>
