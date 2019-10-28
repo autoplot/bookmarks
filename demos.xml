@@ -7,8 +7,8 @@
                 <uri>vap+cdaweb:ds=OMNI2_H0_MRG1HR&amp;id=DST1800&amp;timerange=Oct+2016</uri>
             </bookmark>
             <bookmark>
-                <title>Demo 2: Mouse-wheel down to get data in other files of aggregation</title>
-                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v$v.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</uri>
+                <title>Demo 2: CDF Files on a Web Site (use mouse wheel to zoom out)</title>
+                <uri>https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v$v.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&amp;timerange=20000109</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 3: Show variables in a CDF file.  </title>
@@ -28,23 +28,23 @@
             </bookmark>
             <bookmark>
                 <title>Demo 7: OMNIWeb2 text file.  Read first column (Year)</title>
-                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1963.dat?column=field0</uri>
+                <uri>https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1963.dat?column=field0</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 8: OMNIWeb2 text file.  Read first column (Year) across multiple files</title>
-                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field0=timerange=1963-1965</uri>
+                <uri>https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field0=timerange=1963-1965</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 9: OMNIWeb2 text file, reading data column and parsing times.</title>
-                <uri>ftp://spdf.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</uri>
+                <uri>https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_$Y.dat?column=field17&amp;timeFormat=$Y+$j+$H&amp;time=field0&amp;validMax=999&amp;timerange=1972</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 10: Plot spectrogram in NCML XML file</title>
                 <uri>http://autoplot.org/data/autoplot.ncml</uri>
             </bookmark>
             <bookmark>
-                <title>Demo 11: Browse a directory tree</title>
-                <uri>http://cdaweb.gsfc.nasa.gov/istp_public/data/</uri>
+                <title>Demo 11: Browse a directory tree at CDAWeb</title>
+                <uri>https://cdaweb.gsfc.nasa.gov/istp_public/data/</uri>
             </bookmark>
             <bookmark>
                 <title>Demo 12: View FITS file</title>
