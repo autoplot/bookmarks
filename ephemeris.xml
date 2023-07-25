@@ -31,6 +31,10 @@
                         <title>Jupiter</title>
                         <uri>vap+das2server:http://planet.physics.uiowa.edu/das/das2Server?dataset=Juno/Ephemeris/Jovicentric&amp;start_time=2012-12-29T00:00:00.000Z&amp;end_time=2012-12-30T00:00:00.000Z&amp;interval=60</uri>
                     </bookmark>
+                    <bookmark>
+                        <title>Pick ephemeris (may require password)</title>
+                        <uri>https://abbith.physics.uiowa.edu/jbf/juno/-/blob/master/team/ephemeris/ephemeris.jyds?timerange=2023-05-20&amp;Alt='T'
+                    </bookmark>
                 </bookmark-list>
             </bookmark-folder>
             <bookmark-folder>
