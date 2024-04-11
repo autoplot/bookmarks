@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmark-list version="1.1">
+    <bookmark-folder>
+        <title>maps</title>
+        <bookmark-list>
+            <bookmark>
+                <title>Equirectangular_projection_SW.jpg</title>
+                <uri>http://autoplot.org/data/maps/Equirectangular_projection_SW.jpg?fog=50&amp;xaxis=0,1028,180,2051&amp;yaxis=0,518,75,943</uri>
+            </bookmark>
+            <bookmark>
+                <title>worldMap.png</title>
+                <uri>http://autoplot.org/data/maps/worldMap.dark.png?channel=greyscale&amp;xaxis=0,1000,180,2000&amp;yaxis=0,498,60,831</uri>
+            </bookmark>
+        </bookmark-list>
+    </bookmark-folder>
+</bookmark-list>
