@@ -64,7 +64,7 @@
             </bookmark>
             <bookmark>
                 <title>Demo 16: Browse data from HAPI server</title>
-                <uri>vap+hapi:http://datashop.elasticbeanstalk.com/hapi</uri>
+                <uri>vap+hapi:https://cdaweb.gsfc.nasa.gov/hapi</uri>
             </bookmark>
         </bookmark-list>
     </bookmark-folder>
