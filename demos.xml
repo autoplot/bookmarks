@@ -66,6 +66,10 @@
                 <title>Demo 16: Browse data from HAPI server</title>
                 <uri>vap+hapi:https://cdaweb.gsfc.nasa.gov/hapi</uri>
             </bookmark>
+            <bookmark>
+                <title>Demo 17: JADE PDS3 File</title>
+                <uri>https://pds-ppi.igpp.ucla.edu/data/JNO-J_SW-JAD-3-CALIBRATED-V1.0/DATA/2023/2023098/ELECTRONS/JAD_L30_LRS_ELC_ANY_CNT_2023098_V04.LBL?DATA</uri>
+            </bookmark>            
         </bookmark-list>
     </bookmark-folder>
 </bookmark-list>
