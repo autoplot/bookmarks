@@ -68,7 +68,7 @@
             </bookmark>
             <bookmark>
                 <title>Demo 17: JADE PDS3 File</title>
-                <uri>https://pds-ppi.igpp.ucla.edu/data/JNO-J_SW-JAD-3-CALIBRATED-V1.0/DATA/2023/2023098/ELECTRONS/JAD_L30_LRS_ELC_ANY_CNT_2023098_V04.LBL?DATA</uri>
+                <uri>https://pds-ppi.igpp.ucla.edu/data/JNO-J_SW-JAD-3-CALIBRATED-V1.0/DATA/2023/2023098/ELECTRONS/JAD_L30_LRS_ELC_ANY_CNT_2023098_V04.LBL?DATA&amp;X=DIM0_UTC</uri>
             </bookmark>            
         </bookmark-list>
     </bookmark-folder>
